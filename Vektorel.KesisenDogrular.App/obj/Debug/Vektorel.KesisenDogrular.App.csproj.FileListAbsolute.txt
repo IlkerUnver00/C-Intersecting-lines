@@ -1,0 +1,5 @@
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.KesisenDogrular.App\bin\Debug\Vektorel.KesisenDogrular.App.exe.config
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.KesisenDogrular.App\bin\Debug\Vektorel.KesisenDogrular.App.exe
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.KesisenDogrular.App\bin\Debug\Vektorel.KesisenDogrular.App.pdb
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.KesisenDogrular.App\obj\Debug\Vektorel.KesisenDogrular.App.exe
+C:\Users\vektorel\Desktop\20 Temmuz 2019\Vektorel.BasicProgramming\Vektorel.KesisenDogrular.App\obj\Debug\Vektorel.KesisenDogrular.App.pdb
